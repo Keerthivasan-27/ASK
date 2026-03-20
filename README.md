@@ -121,9 +121,8 @@ plt.show()
 ```
 ```
 # ASK
+<img width="679" height="679" alt="image" src="https://github.com/user-attachments/assets/663f0306-8387-4f0e-855a-fd5e3222bb22" />
 
-<img width="692" height="281" alt="image" src="https://github.com/user-attachments/assets/ea63464c-f478-43ba-a0f3-5f6c740bd34f" />
-<img width="692" height="274" alt="image" src="https://github.com/user-attachments/assets/4963405c-85fb-4ae5-8d0d-156c776c7d74" />
 
 # FSK
 
